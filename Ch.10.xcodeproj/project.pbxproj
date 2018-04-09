@@ -15,6 +15,7 @@
 		4ECB1ADD207BBF0C00146449 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4ECB1ADB207BBF0C00146449 /* LaunchScreen.storyboard */; };
 		4ECB1AE5207BC0CC00146449 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB1AE4207BC0CC00146449 /* ThirdViewController.swift */; };
 		4ECB1AE9207BC3CE00146449 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB1AE8207BC3CE00146449 /* FourthViewController.swift */; };
+		4ECB1AEB207BC6AF00146449 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB1AEA207BC6AF00146449 /* FifthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4ECB1ADE207BBF0C00146449 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4ECB1AE4207BC0CC00146449 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		4ECB1AE8207BC3CE00146449 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		4ECB1AEA207BC6AF00146449 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				4ECB1AD4207BBF0C00146449 /* SecondViewController.swift */,
 				4ECB1AE4207BC0CC00146449 /* ThirdViewController.swift */,
 				4ECB1AE8207BC3CE00146449 /* FourthViewController.swift */,
+				4ECB1AEA207BC6AF00146449 /* FifthViewController.swift */,
 				4ECB1AD6207BBF0C00146449 /* Main.storyboard */,
 				4ECB1AD9207BBF0C00146449 /* Assets.xcassets */,
 				4ECB1ADB207BBF0C00146449 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ECB1AEB207BC6AF00146449 /* FifthViewController.swift in Sources */,
 				4ECB1AD5207BBF0C00146449 /* SecondViewController.swift in Sources */,
 				4ECB1AD1207BBF0C00146449 /* AppDelegate.swift in Sources */,
 				4ECB1AE5207BC0CC00146449 /* ThirdViewController.swift in Sources */,
