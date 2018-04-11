@@ -35,6 +35,10 @@ class FirstViewController: UIViewController {
     @IBOutlet weak var lblFirstViewLabel: UILabel!
     var aNumber:Int = 1
     
+    // The keyboard gets in the way in IOS
+    // If you use the soft keyboard and have a text view on the bottom of the scene the keyboard will go right over the control.
+    // you need to have a keyboard listener , moves display up so keyboard doesnt block stuff. You move the screen with a scroll view.
+    // Must embbed controls in scroll view to move conytrols programmitaclly when the keyboard appears. 
     
 
 }
